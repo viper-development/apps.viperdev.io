@@ -38,3 +38,8 @@ include: [_pages]
 exclude: [_site, CHANGELOG.md, LICENSE, README.md]
 sass:
   style: compressed
+defaults:
+  - scope:
+      path: "assets/img"
+    values:
+      image: true
