@@ -43,3 +43,7 @@ defaults:
       path: "assets/img"
     values:
       image: true
+  - scope:
+      path: "assets/img/showcase"
+    values:
+      showcase: true
