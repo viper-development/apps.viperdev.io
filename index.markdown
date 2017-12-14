@@ -11,7 +11,8 @@ Starting at 3000EUR fixed price (excl. german VAT). No ties attached.
 For startups are eager to get off the ground but hindered
 by the lack of software development resources.
 
-[Get Started](https://calendly.com/sils)
+# [Get Started](https://calendly.com/sils)
+## [See what we've done]({{ "showcase/" | absolute_url }})
 
 ## Step 1: We Design Your MVP With You
 
@@ -30,3 +31,6 @@ In the end, there will be up to two iterations on what we come up to make extra 
 If your product needs a server to run or be uploaded to an app store,we'll set it up for you and deploy it - all included.
 
 As a bonus you get a product roadmap so you know where to go next - with or without us.
+
+# [Get Started](https://calendly.com/sils)
+## [See what we've done]({{ "showcase/" | absolute_url }})
