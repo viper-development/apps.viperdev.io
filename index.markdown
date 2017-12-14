@@ -1,21 +1,32 @@
 ---
 layout: page
-title: Material Jekyll Theme
+title: Get your App MVP Done
 ---
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis [nostrud exercitation](http://alexcarpenter.me) ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
-## Heading Level 2
+Your MVP.
+Done in just 30 Days.
+Designed with you, implemented and deployed by us.
+Starting at 3000EUR fixed price (excl. german VAT). No ties attached.
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+For startups are eager to get off the ground but hindered
+by the lack of software development resources.
 
-{% highlight scss %}
-  .header {
-    font-size: 100px;
-  }
-{% endhighlight %}
+[Get Started](https://calendly.com/sils)
 
-### Heading Level 3
+## Step 1: We Design Your MVP With You
 
-> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris.
+Our founders and business experts work with you to define the best MVP leading to your goals. We love to meet you in person.
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+If we can't agree on a concept to your statisfaction, you will only pay an Eur 300 consultation fee and receive the technical information we worked out so far about your product. If we work out wireframes for you, the consultation fee amounts Eur 800.
+
+## Step 2: We Implement Your MVP
+
+We work closely together with you to make your MVP happen. Your goals are what matters, not simply ticking off features.
+
+In the end, there will be up to two iterations on what we come up to make extra sure you're statisfied.
+
+## Step 3: Ship it!
+
+If your product needs a server to run or be uploaded to an app store,we'll set it up for you and deploy it - all included.
+
+As a bonus you get a product roadmap so you know where to go next - with or without us.
