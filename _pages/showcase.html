@@ -12,5 +12,5 @@ Because we don't want to leave you hanging, we're collecting a couple of screens
 
 {% assign image_files = site.static_files | where: "image", true %}
 {% for myimage in image_files %}
-  ![]({{ myimage.path }})
+  ![]({{ myimage.path | absolute_url }})
 {% endfor %}
