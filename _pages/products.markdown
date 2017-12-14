@@ -4,13 +4,21 @@ title: Products
 permalink: /products/
 ---
 
-# Get your MVP Done
+# Get your App MVP Done
 
-We conceptualize, develop, deploy and build a roadmap for your MVP in 30 days at a fixed price so you can get the data you desire or convince your favourite investors in no time.
+This offer is for startups and small businesses.
+
+We conceptualize, develop, deploy and build a roadmap for your idea in 30 days at a fixed price so you can get the data you desire or convince your favourite investors in no time.
 
 This includes:
 
-- A working and deployed minimal product
+- A working and deployed minimal product covering your USP
 - A development roadmap for scaling your MVP into a product
 
 Starting at 3000Eur.
+
+# Get your App Done
+
+Looking for more or are a larger business?
+
+Please contact us for an individual offer.
