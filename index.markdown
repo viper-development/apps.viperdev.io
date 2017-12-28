@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Get your App MVP Done for 3000Eur
+title: Create your App for 3000Eur
 ---
 
 Your App.
