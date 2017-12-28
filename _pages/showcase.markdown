@@ -4,16 +4,15 @@ title: Showcase
 permalink: /showcase/
 ---
 
-## This page is under construction
+## Existing Projects
 
-We're currently working on how to showcase stuff that we've built :) You can simply ask us for some more info on our past projects.
+Here you can see a few screenshots of some of the apps we've created in the past.
+Click on one to get the real version.
 
-[Get Started](https://calendly.com/sils){:.c-btn}
+[![For Better Beer]({{ "assets/img/showcase/fobb.png" | absolute_url }})](https://fobb.viperdev.io/)
+[![Tilly]({{ "assets/img/showcase/tilly.jpg" | absolute_url }})](https://itunes.apple.com/de/app/tilly-deine-einkaufsliste/id1318930173)
 
-Because we don't want to leave you hanging, we're collecting a couple of quotes and screenshots of stuff that we've done here :)
-
-{% assign showcase_files = site.static_files | where: "showcase", true %}
-{% for myimage in showcase_files %} ![]({{ myimage.path | absolute_url }}) {% endfor %}
+## Quotes
 
 > Viperdev's competence and access to broad development resources make it the perfect one stop shop for developing an MVP. They have answers to questions you don't even know to ask.
 
