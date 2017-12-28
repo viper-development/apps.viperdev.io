@@ -4,7 +4,7 @@ title: Showcase
 permalink: /showcase/
 ---
 
-# This page is under construction
+## This page is under construction
 
 We're currently working on how to showcase stuff that we've built :) You can simply ask us for some more info on our past projects.
 
