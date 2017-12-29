@@ -16,7 +16,7 @@
 title: Viper Development
 email: info@viperdev.io
 description: > # this means to ignore newlines until "baseurl:"
-  Create your App for 3000Eur in just 30 days. Work with our founders to create your Minimum Viable Product at a minimal investment.
+  Create your App starting at 3000Eur in just 30 days. Work with our founders to create your Minimum Viable Product at a fixed minimal investment.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://viperdev.io" # the base hostname & protocol for your site
 
