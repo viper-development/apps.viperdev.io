@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Viper Development is a Software Development company that helps startups to bring their app to the store within no time on a tight budget.
+Viper Development is a Software Development company that helps startups to bring their app to the store or to the web within no time on a tight budget.
 
 ## Our Core Values
 
