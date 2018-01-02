@@ -19,7 +19,7 @@ This includes:
 
 Starting at 3000Eur.
 
-[Schedule a Call](https://calendly.com/sils){:.c-btn}
+[Schedule a Call](https://calendly.com/viper){:.c-btn}
 
 ## Get your App Done
 
@@ -27,4 +27,4 @@ Looking for more or are a larger business?
 
 Please contact us for an individual offer.
 
-[Schedule a Call](https://calendly.com/sils){:.c-btn}
+[Schedule a Call](https://calendly.com/viper){:.c-btn}
