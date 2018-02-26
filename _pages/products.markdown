@@ -4,7 +4,7 @@ title: Products
 permalink: /products/
 ---
 
-## Get your App Done
+## Startup Package
 
 This offer is for startups and small businesses.
 
@@ -14,17 +14,25 @@ You will receive a fully functional [Minimum Viable Product]({{ "minimum-viable-
 
 This includes:
 
-- A working and deployed minimal product covering your USP
-- A development roadmap for scaling your MVP into a product
+- A working and deployed minimal product covering your unique selling points
+- A development roadmap for scaling your MVP into a complete product
 
-Starting at 3000Eur.
+Starting at €3000.
 
 [Schedule a Call](https://calendly.com/viper){:.c-btn}
 
-## Get your App Done
+## Consultation Package
+
+Meet with our founders and business experts to advise you on your startup's technical requirements and strategy.
+
+You'll receive our advice and a product roadmap.
+
+Available for €300
+
+## Enterprise Package
 
 Looking for more or are a larger business?
 
 Please contact us for an individual offer.
 
-[Schedule a Call](https://calendly.com/viper){:.c-btn}
+[Contact Us](https://calendly.com/viper){:.c-btn}
