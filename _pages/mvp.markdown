@@ -6,7 +6,7 @@ permalink: /minimum-viable-product/
 
 ## What is an MVP?
 
-A [MVP (Minimum Viable Product)](https://www.techopedia.com/definition/27809/minimum-viable-product-mvp) is the minimal solution to test your business assumption or satisfy your users.
+An [MVP (Minimum Viable Product)](https://www.techopedia.com/definition/27809/minimum-viable-product-mvp) is the minimal solution to test your business assumption or satisfy your users.
 
 For every feature that you think you need, ask yourself: *is this feature absolutely necessary to solve the problem for my users*?
 
