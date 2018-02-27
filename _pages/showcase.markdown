@@ -13,15 +13,15 @@ Click on one one of our projects to experience it.
 
 ## References
 
-> "Viperdev's competence and access to broad development resources make it the perfect one stop shop for developing an MVP. They have answers to questions you don't even know to ask."
+> Viperdev's competence and access to broad development resources make it the perfect one stop shop for developing an MVP. They have answers to questions you don't even know to ask.
 
 *Cynthia Wandia, CEO of Aerupt Ltd*
 
-> "Highly competent and efficient. Very smooth to work with."
+> Highly competent and efficient. Very smooth to work with.
 
 *Prof. Dr. Christoph Ihl, TUHH Institute of Entrepreneurship*
 
-> "The team's response time was mind blowing - I could get any question answered within minutes!"
+> The team's response time was mind blowing - I could get any question answered within minutes!
 
 *Viktoria Boss, Researcher*
 
